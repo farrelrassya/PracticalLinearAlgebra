@@ -1,4 +1,4 @@
-# 📚 Practical Linear Algebra for Data Sciencee
+# 📚 Practical Linear Algebra for Data Science
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/downloads/)
